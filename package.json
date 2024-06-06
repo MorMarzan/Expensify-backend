@@ -10,7 +10,7 @@
         "server:prod": "set NODE_ENV=production&node server.js",
         "server:prod:mac": "export NODE_ENV=production && node server.js"
     },
-    "author": "Me",
+    "author": "Mor Marzan",
     "license": "ISC",
     "dependencies": {
         "bcrypt": "^5.0.0",
