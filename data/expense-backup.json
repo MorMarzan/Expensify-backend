@@ -1,0 +1,128 @@
+[
+    {
+        "date": 1702665600000,
+        "amount": 50,
+        "category": "Food",
+        "note": "Grocery shopping",
+        "userId": "659fd52d810c3f98c2054719"
+    },
+    {
+        "date": 1702752000000,
+        "amount": 20,
+        "category": "Transport",
+        "note": "Bus fare",
+        "userId": "659fd52d810c3f98c2054719"
+    },
+    {
+        "date": 1702838400000,
+        "amount": 100,
+        "category": "Utilities",
+        "note": "Electricity bill",
+        "userId": "659fd52d810c3f98c2054719"
+    },
+    {
+        "date": 1702924800000,
+        "amount": 30,
+        "category": "Entertainment",
+        "note": "Movie tickets",
+        "userId": "659fd52d810c3f98c2054719"
+    },
+    {
+        "date": 1703011200000,
+        "amount": 60,
+        "category": "Healthcare",
+        "note": "Doctor visit",
+        "userId": "659fd52d810c3f98c2054719"
+    },
+    {
+        "date": 1703097600000,
+        "amount": 80,
+        "category": "Food",
+        "note": "Restaurant",
+        "userId": "659fd52d810c3f98c2054719"
+    },
+    {
+        "date": 1702665600000,
+        "amount": 75,
+        "category": "Food",
+        "note": "Dinner",
+        "userId": "659fd5db810c3f98c205471a"
+    },
+    {
+        "date": 1702752000000,
+        "amount": 15,
+        "category": "Transport",
+        "note": "Taxi fare",
+        "userId": "659fd5db810c3f98c205471a"
+    },
+    {
+        "date": 1702838400000,
+        "amount": 90,
+        "category": "Utilities",
+        "note": "Water bill",
+        "userId": "659fd5db810c3f98c205471a"
+    },
+    {
+        "date": 1702924800000,
+        "amount": 40,
+        "category": "Entertainment",
+        "note": "Concert tickets",
+        "userId": "659fd5db810c3f98c205471a"
+    },
+    {
+        "date": 1703011200000,
+        "amount": 50,
+        "category": "Healthcare",
+        "note": "Pharmacy",
+        "userId": "659fd5db810c3f98c205471a"
+    },
+    {
+        "date": 1703097600000,
+        "amount": 25,
+        "category": "Food",
+        "note": "Lunch",
+        "userId": "659fd5db810c3f98c205471a"
+    },
+    {
+        "date": 1702665600000,
+        "amount": 100,
+        "category": "Food",
+        "note": "Grocery shopping",
+        "userId": "659fd60b810c3f98c205471b"
+    },
+    {
+        "date": 1702752000000,
+        "amount": 30,
+        "category": "Transport",
+        "note": "Gas",
+        "userId": "659fd60b810c3f98c205471b"
+    },
+    {
+        "date": 1702838400000,
+        "amount": 120,
+        "category": "Utilities",
+        "note": "Internet bill",
+        "userId": "659fd60b810c3f98c205471b"
+    },
+    {
+        "date": 1702924800000,
+        "amount": 35,
+        "category": "Entertainment",
+        "note": "Theater tickets",
+        "userId": "659fd60b810c3f98c205471b"
+    },
+    {
+        "date": 1703011200000,
+        "amount": 45,
+        "category": "Healthcare",
+        "note": "Dentist",
+        "userId": "659fd60b810c3f98c205471b"
+    },
+    {
+        "date": 1703097600000,
+        "amount": 70,
+        "category": "Food",
+        "note": "Dinner out",
+        "userId": "659fd60b810c3f98c205471b"
+    }
+]
