@@ -4,7 +4,7 @@ import bcrypt from 'bcrypt'
 import { userService } from '../user/user.service.js'
 import { logger } from '../../services/logger.service.js'
 
-const cryptr = new Cryptr(process.env.SECRET_CRYPTR || 'expensify-rocks')
+const cryptr = new Cryptr(process.env.SECRET_CRYPTR)
 
 export const authService = {
     signup,
